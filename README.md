@@ -5,9 +5,8 @@ These scripts are used as part of the tutorial _A Practical Introduction to Quan
 ## Environment preparation
 
 ```
-git clone https://github.com/ccicconetti/qiskit-tests.git
-cd qiskit-tests/tutorial
-virtualenv .venv -p python3
+git clone https://github.com/ccicconetti/tutorial-quantum.git
+python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
