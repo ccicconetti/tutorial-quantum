@@ -1,6 +1,8 @@
 # Qiskit scripts
 
-These scripts are used as part of the tutorial _A Practical Introduction to Quantum Computing and Networking_ by [Claudio Cicconetti](https://ccicconetti.github.io/).
+These scripts are used as part of the tutorial _A Practical Introduction to Quantum Computing and Networking_ by [Claudio Cicconetti](https://ccicconetti.github.io/):
+
+> Claudio Cicconetti. "A Practical Introduction to Quantum Computing and Networking". In Proceedings of the _33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC '24)_. Association for Computing Machinery, New York, NY, USA, 348–349. DOI: [10.1145/3625549.3660507](https://doi.org/10.1145/3625549.3660507).
 
 ## Environment preparation
 
